@@ -2,7 +2,9 @@
 
 A comprehensive financial analytics dashboard built with Python and Streamlit. Track revenue, expenses, profitability, cash flow, and key financial ratios with interactive visualizations and forecasting capabilities.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+## Dashboard Preview
+https://financial-kpi-dashboards.streamlit.app/
+
 
 ## 🎯 Features
 
